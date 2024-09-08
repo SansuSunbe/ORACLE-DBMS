@@ -22,5 +22,5 @@
 # 오라클DBMS 설치 확인
 
 1. 윈도우 버튼 + R 로 CMD(명령 프롬프트) 실행
-2. sqlplus || sqlplus sys as sysdba 입력
+2. 'sqlplus' || 'sqlplus sys as sysdba' 입력
 3. oracle 설치 시 설정한 비밀번호 입력
