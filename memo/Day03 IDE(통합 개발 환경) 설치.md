@@ -5,7 +5,7 @@
 - [DBeaver 5.2.5 설치하러 가기](https://dbeaver.io/files/5.2.5/)
 - zip 파일을 받아서 무설치로 설치하기
 
-![image.png](image.png)
+![image](https://github.com/user-attachments/assets/d0dbd25a-1d82-4b2c-8a93-cda2ed3ba8df)
 
 # SQL(인터프리터 언어), 쿼리문
 
