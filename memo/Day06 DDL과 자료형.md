@@ -70,4 +70,4 @@
 - 테이블 생성 후 밑에 결과창에 테이블 생성 알림을 통해 테이블이 정상적으로 생성 됐음을 확인할 수 있다.
 - 계정을 한번 클릭 후 F5 버튼을 눌려 새로 고침하면 계정에 테이블이 추가된 것을 확인할 수 있다.
 
-![image.png](image.png)
+![image](https://github.com/user-attachments/assets/e10205f5-05f7-444e-a7af-5d8c0ee5c549)
