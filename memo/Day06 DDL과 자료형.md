@@ -2,10 +2,10 @@
 
 # SQL(structured query language)문 종류
 
-- DDL
-- DML
-- TCL
-- DCL
+- DDL : 데이터 정의어
+- DML : 데이터 조작어
+- TCL : 트랜잭션 제어어
+- DCL : 데이터 제어어
 
 # DDL(Data Definition Laguage)
 
