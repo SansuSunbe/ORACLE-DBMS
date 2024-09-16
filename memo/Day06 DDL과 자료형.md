@@ -1,6 +1,6 @@
 # Day06 DDL과 자료형
 
-# SQL(**structured query language)**문 종류
+# SQL(structured query language)문 종류
 
 - DDL
 - DML
