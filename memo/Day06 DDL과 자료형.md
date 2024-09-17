@@ -35,7 +35,7 @@
     4. 컬럼 삭제
         
         ```sql
-        DROP COLUMN [새로운 컬럼명];
+        DROP COLUMN [생성된 컬럼명];
         ```
         
 4. TRUNCATE : 테이블 내용 전체 삭제
