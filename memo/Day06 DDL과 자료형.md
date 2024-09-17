@@ -29,7 +29,7 @@
     3. 컬럼명 변경 : 
         
         ```sql
-        RENAME COLUMN [새로운 컬럼명] TO [새로운 컬럼명];
+        RENAME COLUMN [생성된 컬럼명] TO [새로운 컬럼명];
         ```
         
     4. 컬럼 삭제
