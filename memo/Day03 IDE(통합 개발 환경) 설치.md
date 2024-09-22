@@ -25,4 +25,4 @@
 
 # JDK 설치
 
-[JDK 설치 && 환경 설정](https://www.notion.so/01-JAVA-JDK-649685f9fa36496eafc1ba1c0f60592d?pvs=21)
+[JDK 설치 && 환경 설정](https://blog.naver.com/coding_music/223457414418)
