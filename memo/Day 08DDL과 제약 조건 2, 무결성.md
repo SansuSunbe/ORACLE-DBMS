@@ -6,9 +6,9 @@
 2. SQL 생성 → INSERT 클릭
 3. COPY 클릭 후 Script 파일에 붙여넣기(Ctrl + V)
 
-![image.png](image.png)
+![image](https://github.com/user-attachments/assets/2b7f1f4a-137e-466f-a8c8-34136c53f08a)
 
-![image.png](image%201.png)
+![image 1](https://github.com/user-attachments/assets/aff0bf80-c3eb-4dfc-8c57-736e31ebfcc3)
 
 # 무결성
 
