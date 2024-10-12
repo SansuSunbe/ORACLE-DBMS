@@ -26,19 +26,19 @@
 
 - DBEAVER를 실행하면 상단에  T 모양의 버튼을 클릭
 
-![image.png](image.png)
+![image](https://github.com/user-attachments/assets/5394f6bf-f6c1-44ce-b0ea-c095e3490748)
 
 - T 모양 클릭 후 변화
 
-![image.png](image%201.png)
+![image 1](https://github.com/user-attachments/assets/4233c7f2-cc0a-407c-84cf-7130a083e790)
 
 - 명령어 두 개를 실행 후 확정 대기 카운트가 뜨고 커밋 버튼을 누르면 명령어가 확정된다.
 
-![image.png](image%202.png)
+![image 2](https://github.com/user-attachments/assets/9bd076ad-cabc-4e3f-a8d1-b960a666c8fa)
 
 - 롤백 버튼을 누르자 확정 대기 명령어 카운트가 사라지고 명령어는 이전 커밋하기 전으로 돌아간다.
 
-![image.png](image%203.png)
+![image 3](https://github.com/user-attachments/assets/a736a59a-fbfb-4e47-a689-21ad3843959d)
 
 # 실습
 
@@ -54,11 +54,11 @@ WHERE TEAM_ID = 'K01';
 
 - 결과
 
-![image.png](image%204.png)
+![image 4](https://github.com/user-attachments/assets/94730023-948d-4fa0-9d3b-21833934e9f7)
 
 - 롤백으로 되돌린 후
 
-![image.png](image%205.png)
+![image 5](https://github.com/user-attachments/assets/49d981c8-0298-426b-b1a8-80b87a030a72)
 
 # AS(ALIAS)
 
