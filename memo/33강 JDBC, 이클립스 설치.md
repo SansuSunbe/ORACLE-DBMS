@@ -8,7 +8,7 @@
 # 실습 테이블 생성
 
 ```sql
--- JDBC(Java DataBase Conectivity)
+-- JDBC(Java DataBase Connectivity)
 CREATE SEQUENCE MEMBER_SEQ
 INCREMENT BY 1
 START WITH 1
